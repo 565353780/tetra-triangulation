@@ -1,0 +1,4 @@
+global-include *.pyi
+global-include *.typed
+recursive-include tetranerf/utils/extension *.so
+recursive-include tetranerf/utils/extension *.pyd
